@@ -3365,3 +3365,8 @@ c-search_autocomplete__query_parts .token:hover {
 .c-texty_autocomplete__result--selected {
   background-color: #3e3e3e !important;
 }
+.c-unified_member__context.c-unified_member__not-in-channel-context--small,
+.c-unified_member__label--small,
+.c-usergroup__context.c-usergroup__not-in-channel-context--small {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
