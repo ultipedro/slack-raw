@@ -129,6 +129,7 @@ ts-rocket.post_body div.text * {
 .p-call_subtype__body,
 .p-call_subtype__footer {
   border-top: 1px solid #292929 !important;
+  background-color: #444444;
 }
 .c-dialog_speed_bump_overlay {
   background: hsla(0, 0%, 0%, 0.7);
