@@ -3358,3 +3358,10 @@ c-search_autocomplete__query_parts .token:hover {
 .p-classic_nav__team_header__team__name {
   letter-spacing: -0.7px !important;
 }
+.c-texty_autocomplete--commands .c-texty_autocomplete__group {
+  background-color: #222222 !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.c-texty_autocomplete__result--selected {
+  background-color: #3e3e3e !important;
+}
