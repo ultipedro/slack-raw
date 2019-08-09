@@ -3368,7 +3368,7 @@ c-search_autocomplete__query_parts .token:hover {
   background-color: #444444 !important;
 }
 .c-date_picker_calendar__date--is_selected {
-  background-color: rgb(135, 181, 95) !important
+  background-color: rgb(135, 181, 95) !important;
 }
 .c-mrkdwn__user_group--link {
   background: transparent;
@@ -3376,4 +3376,17 @@ c-search_autocomplete__query_parts .token:hover {
   font-weight: 600 !important;
   border: none !important;
   padding: 0px 2px 1px 2px;
+}
+.c-mrkdwn__user_group--mention {
+  background: #fbd9a5 !important;
+  color: black !important;
+  overflow: hidden;
+  line-height: 16px !important;
+  display: inline-block;
+  position: relative;
+  top: 4px;
+}
+.c-mrkdwn__user_group--link:hover {
+  background: #de5ea2;
+  color: white !important;
 }
