@@ -667,9 +667,6 @@ p-search_filter__date:first-child {
 .p-download_item__actions {
   background: none;
 }
-.c-message__body {
-  margin: 4px 0 -4px !important;
-}
 .p-file_list a {
   color: green !important;
 }
@@ -3002,7 +2999,7 @@ p-search_filter__from_name,
 .c-message--adjacent:hover .c-message__gutter {
   opacity: 1;
   position: relative;
-  top: -6px !important;
+  top: -1px !important;
 }
 .c-basic_unified_entity__lable {
   color: white !important;
