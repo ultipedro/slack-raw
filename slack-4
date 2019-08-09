@@ -2884,9 +2884,6 @@ div.p-message_pane__foreword__description span {
   z-index: 200;
   color: white;
 }
-.c-member_slug--link {
-  font-size: 14.6px !important;
-}
 .c-texty_autocomplete {
   background: #000;
 }
@@ -3366,4 +3363,17 @@ c-search_autocomplete__query_parts .token:hover {
 .c-unified_member__label--small,
 .c-usergroup__context.c-usergroup__not-in-channel-context--small {
   color: rgba(255, 255, 255, 0.3) !important;
+}
+.c-date_picker__dropdown {
+  background-color: #444444 !important;
+}
+.c-date_picker_calendar__date--is_selected {
+  background-color: rgb(135, 181, 95) !important
+}
+.c-mrkdwn__user_group--link {
+  background: transparent;
+  color: #fcc973 !important;
+  font-weight: 600 !important;
+  border: none !important;
+  padding: 0px 2px 1px 2px;
 }
