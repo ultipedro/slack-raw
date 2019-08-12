@@ -3404,16 +3404,17 @@ c-search_autocomplete__query_parts .token:hover {
 }
 @keyframes highlight {
   20% {
-      background: #c25235
+    background: #c25235;
   }
 
   60% {
-      background: #c25235
+    background: #c25235;
   }
 }
-.c-message_attachment__row.c-message_attachment__row--actions .c-button--outline-danger {
-  background-color: transparent;
+.c-button--outline-danger {
+  background-color: #2c2f33;
+  border: 1px solid #e01e5a;
 }
-.c-message_attachment__row.c-message_attachment__row--actions .c-button--outline-danger .overflow_ellipsis {
+.c-button--outline-danger .overflow_ellipsis {
   color: inherit !important;
 }
