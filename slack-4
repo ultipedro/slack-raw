@@ -3411,3 +3411,9 @@ c-search_autocomplete__query_parts .token:hover {
       background: #c25235
   }
 }
+.c-message_attachment__row.c-message_attachment__row--actions .c-button--outline-danger {
+  background-color: transparent;
+}
+.c-message_attachment__row.c-message_attachment__row--actions .c-button--outline-danger .overflow_ellipsis {
+  color: inherit;
+}
