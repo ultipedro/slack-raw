@@ -3402,3 +3402,12 @@ c-search_autocomplete__query_parts .token:hover {
     background: transparent;
   }
 }
+@keyframes highlight {
+  20% {
+      background: #c25235
+  }
+
+  60% {
+      background: #c25235
+  }
+}
