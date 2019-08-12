@@ -69,8 +69,8 @@ ts-rocket.post_body div.text * {
   background: white !important;
   color: black !important;
 }
-.c-fullscreen_modal__body {
-  padding: 0 !important;
+.p-channel_browser__body {
+  padding-bottom: 0;
 }
 .p-message_pane_input__disabled {
   background-color: #151515;
@@ -3390,4 +3390,13 @@ c-search_autocomplete__query_parts .token:hover {
 .c-mrkdwn__user_group--link:hover {
   background: #de5ea2;
   color: white !important;
+}
+@keyframes fade-background-highlight {
+  0% {
+    background: #e4fcda;
+  }
+
+  to {
+    background: transparent;
+  }
 }
