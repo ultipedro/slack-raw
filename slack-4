@@ -70,7 +70,7 @@ ts-rocket.post_body div.text * {
   color: black !important;
 }
 .p-channel_browser__body {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 .p-message_pane_input__disabled {
   background-color: #151515;
@@ -3393,7 +3393,7 @@ c-search_autocomplete__query_parts .token:hover {
 }
 @keyframes fade-background-highlight {
   0% {
-    background: #e4fcda;
+    background: #c25235;
   }
 
   to {
