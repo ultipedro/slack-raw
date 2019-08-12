@@ -69,7 +69,9 @@ ts-rocket.post_body div.text * {
   background: white !important;
   color: black !important;
 }
-.p-channel_browser__body {
+.p-channel_browser__body,
+.p-dm_browser_modal__body,
+.c-fullscreen_modal__body {
   padding-bottom: 0 !important;
 }
 .p-message_pane_input__disabled {
