@@ -3418,3 +3418,9 @@ c-search_autocomplete__query_parts .token:hover {
 .c-button--outline-danger .overflow_ellipsis {
   color: inherit !important;
 }
+.p-file_viewer__body {
+  border-right: none !important;
+}
+.c-fullscreen_modal__body--full_bleed {
+  padding: 0 !important;
+}
