@@ -3415,5 +3415,5 @@ c-search_autocomplete__query_parts .token:hover {
   background-color: transparent;
 }
 .c-message_attachment__row.c-message_attachment__row--actions .c-button--outline-danger .overflow_ellipsis {
-  color: inherit;
+  color: inherit !important;
 }
