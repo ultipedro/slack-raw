@@ -1353,9 +1353,13 @@ a.c-message__sender_link {
 .c-icon_button--light:hover,
 .c-icon_button--light:link:hover {
   color: #ffffff;
+  background: #e01e5a;
 }
+.c-icon_button--light.c-button-unstyled:active, 
+.c-icon_button--light:active, 
+.c-icon_button--light:link:active
 .c-fullscreen_modal__header {
-  background: #222222;
+  background: #007a5a;
 }
 .p-prefs_modal .c-fullscreen_modal__body {
   overflow-y: scroll;
@@ -3426,4 +3430,7 @@ c-search_autocomplete__query_parts .token:hover {
 }
 .p-client {
   background-color: #232323 !important;
+}
+.p-classic_nav__model__title__name__status--im {
+  color: rgba(255, 255, 255, 0.5) !important;
 }
