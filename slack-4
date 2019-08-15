@@ -3424,3 +3424,6 @@ c-search_autocomplete__query_parts .token:hover {
 .c-fullscreen_modal__body--full_bleed {
   padding: 0 !important;
 }
+.p-client {
+  background-color: #232323 !important;
+}
