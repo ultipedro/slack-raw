@@ -3434,3 +3434,10 @@ c-search_autocomplete__query_parts .token:hover {
 .p-classic_nav__model__title__name__status--im {
   color: rgba(255, 255, 255, 0.5) !important;
 }
+.p-classic_nav__model__title__info__secondary_name {
+  color: white;
+}
+.p-degraded_list__loading {
+  color: white;
+  background-color: #424242;
+}
